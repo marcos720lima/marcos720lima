@@ -29,8 +29,6 @@ const marcos = {
 
 </div>
 
-> 💡 *Aprofundando conhecimentos em JavaScript e Node.js para criar aplicações mais robustas e escaláveis.*
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
