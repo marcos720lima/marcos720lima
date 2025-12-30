@@ -133,7 +133,5 @@ Sistema web de agendamento de consultas médicas desenvolvido durante a faculdad
 <div align="center">
   
   ### ⭐ Se algum projeto te ajudou, deixa uma estrela!
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=marcos720lima&color=00d9ff&style=for-the-badge)
 
 </div>
