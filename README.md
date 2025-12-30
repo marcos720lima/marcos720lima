@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 ```javascript
 const marcos = {
@@ -20,7 +20,7 @@ const marcos = {
 };
 ```
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 <div align="center">
 
@@ -31,7 +31,7 @@ const marcos = {
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -56,11 +56,11 @@ const marcos = {
 
 ---
 
-## 💼 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
-### 🔐 [Integração Solides - AD + Sistemas](https://github.com/marcos720lima/integracao-solides)
+### [Integração Solides - AD + Sistemas](https://github.com/marcos720lima/integracao-solides)
 
 </div>
 
@@ -70,7 +70,7 @@ Sistema desenvolvido na **Unimed Oeste do Pará** para automatizar o processo de
 
 **🔧 Tecnologias:** `Python` `Flask` `LDAP3` `Playwright` `Active Directory`
 
-**✨ Funcionalidades:**
+**Funcionalidades:**
 - Integração via webhooks com a plataforma Solides
 - Inativação automática no Active Directory (LDAP)
 - RPA para desativação em múltiplos sistemas (CRM, SAW, GIU, GED, NextQS)
@@ -80,7 +80,7 @@ Sistema desenvolvido na **Unimed Oeste do Pará** para automatizar o processo de
 
 <div align="center">
 
-### 📞 [Scripts SAC](https://github.com/marcos720lima/scripts-sac)
+### [Scripts SAC](https://github.com/marcos720lima/scripts-sac)
 
 </div>
 
@@ -88,9 +88,9 @@ Sistema desenvolvido na **Unimed Oeste do Pará** para automatizar o processo de
 
 Sistema web desenvolvido para otimizar o fluxo de trabalho do SAC da **Unimed Oeste do Pará**, oferecendo ferramentas para gerenciamento de scripts de atendimento e operações do setor.
 
-**🔧 Tecnologias:** `JavaScript` `Vue.js` `Node.js` `PostgreSQL` `CSS`
+**Tecnologias:** `JavaScript` `Vue.js` `Node.js` `PostgreSQL` `CSS`
 
-**✨ Funcionalidades:**
+**Funcionalidades:**
 - Interface moderna e responsiva
 - Gerenciamento de scripts de atendimento
 - Sistema de busca e filtros avançados
@@ -100,7 +100,7 @@ Sistema web desenvolvido para otimizar o fluxo de trabalho do SAC da **Unimed Oe
 
 <div align="center">
 
-### 🏥 [LabNorte - Sistema de Agendamentos](https://github.com/marcos720lima/LabNorte)
+### [LabNorte - Sistema de Agendamentos](https://github.com/marcos720lima/LabNorte)
 
 </div>
 
@@ -108,9 +108,9 @@ Sistema web desenvolvido para otimizar o fluxo de trabalho do SAC da **Unimed Oe
 
 Sistema web de agendamento de consultas médicas desenvolvido durante a faculdade. Este projeto marca o início da minha jornada na programação, onde aprendi os fundamentos do desenvolvimento web.
 
-**🔧 Tecnologias:** `HTML` `CSS` `JavaScript`
+**Tecnologias:** `HTML` `CSS` `JavaScript`
 
-**✨ Funcionalidades:**
+**Funcionalidades:**
 - Agendamento de consultas médicas
 - Interface amigável para pacientes
 - Calendário interativo
@@ -118,7 +118,7 @@ Sistema web de agendamento de consultas médicas desenvolvido durante a faculdad
 
 ---
 
-## 📫 Vamos conversar!
+## Vamos conversar!
 
 <div align="center">
 
