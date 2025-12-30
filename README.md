@@ -68,7 +68,7 @@ const marcos = {
 
 Sistema desenvolvido na **Unimed Oeste do Pará** para automatizar o processo de inativação de acessos de colaboradores desligados. A solução elimina a necessidade de acionamento manual do setor de TI pelo Departamento Pessoal, reduzindo riscos de segurança e tempo operacional.
 
-**🔧 Tecnologias:** `Python` `Flask` `LDAP3` `Playwright` `Active Directory`
+**Tecnologias:** `Python` `Flask` `LDAP3` `Playwright` `Active Directory`
 
 **Funcionalidades:**
 - Integração via webhooks com a plataforma Solides
@@ -104,7 +104,7 @@ Sistema web desenvolvido para otimizar o fluxo de trabalho do SAC da **Unimed Oe
 
 </div>
 
-> **Meu primeiro projeto de programação! 🎓**
+> **Meu primeiro projeto de programação!**
 
 Sistema web de agendamento de consultas médicas desenvolvido durante a faculdade. Este projeto marca o início da minha jornada na programação, onde aprendi os fundamentos do desenvolvimento web.
 
